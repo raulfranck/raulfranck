@@ -1,5 +1,7 @@
 # Raul Franck
 
+Sou um entusiasta por desenvolvimento web & mobile, naturalmente um autodidata buscando me aprimorar e me superar a cada dia. Apaixonado por algoritmos e por onde eles podem me levar.
 
-[![Twitter Badge](https://img.shields.io/badge/-@raulfranck-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raulfranck)](https://twitter.com/raulfranck)
-[![Linkedin Badge](https://img.shields.io/badge/-Raul%Franck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//in/raul-franck-468617164/)](https://www.linkedin.com/in/raul-franck-468617164/)
+Atualmente focado no Frontend com React e React Native.
+
+Conhecimentos em HTML, CSS, Javascript, Typescript, Bootstrap, Wordpress, NodeJs e banco de dados com MongoDB.
